@@ -1,0 +1,62 @@
+
+
+my_num= 5  # variable e ha il valore 5
+
+print (my_num) # stampare questa variabile 
+
+
+my_num1=9
+
+print (str(my_num1))   # trasforma il valore in string 
+ 
+ 
+print(str(my_num1)+" il mio numero preferito ") # trasforma il valore in string per poter stamparlo 
+
+num1=-5
+
+
+print(abs(num1)) # fa il valore assoluto di num1
+
+
+num2=6
+
+print (abs(num2)) # fa il valore assoluto 
+
+
+
+
+esponente=2
+
+base=3
+
+print (pow(base,esponente))  # fare la potenza 
+
+
+print (max(4,8))# vuole stampare il massimo numero 
+
+print (min(3,2)) #vuole stampare il minimo numero 
+
+print (round(3.2))#vuole stampre il vicinumero 
+
+print (round(3.6))#vuole stampre il vicinumero 
+ 
+
+
+
+from math import *  # quindi fai presentare tutti gli elementi di questa libreria
+
+n=3.6
+
+print (floor(n)) # elemintare i decimale 
+
+m=4.1
+
+print (ceil(m)) #aumentare al numero successivo 
+
+
+o=9
+
+print(sqrt(o)) # fai il ridce quadrato di questo 
+
+
+
