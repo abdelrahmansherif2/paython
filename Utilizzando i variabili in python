@@ -1,0 +1,28 @@
+
+character_cognome="SHERIF" # vairbile charactere_nome 
+
+character_name="Abdelrahman" # varibile character_nome 
+
+age_Abdelrahman= "20"
+
+
+
+character_padre="Sherif"
+
+age_padre="54"
+
+print ('lo studente si chiama  '+character_name,character_cognome) # per stampare + mettere un variabile alla fine
+
+
+# per stampare e mettere un variabile all inizion 
+print (character_name,character_cognome+" lo studente di intellegenza articficiale")
+
+# per mettere il varibile nel mezzo 
+
+print ("il padre di "+character_name,character_cognome+" e il signor "+character_padre)
+
+
+#quantti hanni ha LO SOTUDENTE e l'eta di suo padre 
+
+print("lo studente "+character_name+" ha "+age_Abdelrahman+" anni e il suo padre ha "+age_padre+" anni ")
+
