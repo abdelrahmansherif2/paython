@@ -1,0 +1,17 @@
+
+text="CIAO RAGAZZI"
+
+text1="ciao ragzzi"
+
+
+print (text)   #stampa text 
+print(text.islower()) # verifica se e' minosculo
+
+print(text.lower().islower()) # trasforma in minosculo e verifica se minosculo
+
+print(text1) # stampa text1 
+
+
+print(text1.isupper())  # verifica se e' Miascuolo 
+
+print(text1.upper().isupper()) #trasforma a Miascuol e verifica 
