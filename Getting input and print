@@ -1,0 +1,7 @@
+
+name=input("Enter your name :") #scrivere il tuo nome 
+
+age=input("Enter your age please : ") # scrivi la tua eta 
+
+
+print("Hello "+name+" your age is "+age ) # stampa 
