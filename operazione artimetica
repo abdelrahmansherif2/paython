@@ -1,0 +1,20 @@
+
+num1=input("Scrivi il primo numero = ")
+num2=input("scrivi il secondo numero =")
+
+Addizione= float(num1)+float(num2)
+
+print("la Addizione di questi due numeri e' "+str(Addizione))
+
+moltipilcazione= float(num1)*float(num2)
+
+print("la Moltiplicazione di questi due numeri e' "+str(moltipilcazione))
+
+sotrazione=float(num1)-float(num2)
+
+print("la sotrazioni di questi due numeri e' "+str(sotrazione))
+
+divisione=float(num1)/float(num2)
+
+print("il primo numero diviso il secondo numero , quindi il risultato e' "+str(divisione))
+
