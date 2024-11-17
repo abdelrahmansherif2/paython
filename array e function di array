@@ -1,0 +1,63 @@
+
+Studenti_4ITI+=Studenti_5ITI             #agguingere due array 
+
+print(Studenti_4ITI)        #stampare l'array 
+
+
+
+Studenti_5ITI.extend(Studenti_4ITI) #agguingere due array 
+
+print(Studenti_5ITI)
+
+Gentori=["Hossam","SHERIF","SHERIF"]
+
+
+Gentori.append("Yehia")  # agguingi un nome all array  ma solo alla fine 
+
+print(Gentori)
+
+
+
+Gentori.insert(2,"Waleed")  # agguingi  un nome nel indice 2 
+
+print(Gentori)
+
+
+
+Gentori.remove("Hossam") # si usa per eleminare un nome 
+
+
+
+
+print(Gentori)
+
+print(Gentori.count("SHERIF")) #.count si usa per contare quante volte e' ripetuto qualcosa sia un numero sia un nome e cosi via 
+
+print(Gentori.index("Yehia")) # per poter sapere dove si trova questo 
+
+Gentori.sort() # .sort() si usa per ordinare form A-Z   LA LIST 
+print(Gentori)  
+
+Gentori.clear() # elemina tutta l'array 
+
+print(Gentori)
+
+
+
+Numeri=[12,5,99,7,5,3,97,4,212]
+
+Numeri.sort() # si usa per mettere in ordine dal piu piccolo al piu grande 
+
+print(Numeri)
+
+
+list=["EBRAHIM","MOHAMED"]
+
+NEWLIST=list.copy() #quindi 
+
+list.append("PADREMIO")
+
+print(list)
+
+print(NEWLIST)
+
