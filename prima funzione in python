@@ -1,0 +1,7 @@
+def say_hi(name,age):
+    
+    print("Ciao "+name+" la tua eta e' " +str(age))
+    
+    
+say_hi("Abdelrahman",20)
+ 
