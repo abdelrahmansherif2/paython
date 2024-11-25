@@ -1,0 +1,21 @@
+num1=float(input("Inserisci il primo numero :"))
+
+operatore=input("Quale operazione vuoi fare :")
+
+num2=float(input("Inserisci il secondo numero :"))
+
+if operatore=="+":
+    print(num1+num2)
+
+elif operatore=="-":
+
+    print(num1-num2)
+    
+elif operatore=="*":
+    print(num1*num2)
+    
+elif operatore=="/":
+    print(num1/num2)    
+
+else:
+    print("ha sbagliato l'operatore ripeti di nuovo")
